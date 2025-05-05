@@ -10,7 +10,7 @@
 
 ## 🛠️ Languages and Tools
 
-- Lenguajes: `R`, `Python`, `SQL`
+- Lenguages: `R`, `Python`, `SQL`
 - Rstudio: `lubridate`, `gt`, `sf`, `leaflet`, `plotly`, `clustering`, `k-means`, `shiny`.
 - Python: Python: `numpy`, `pandas`, `skilearn`, `matplotlib`, `seaborn`, `plotly`, `PostgreSQL`, Sqlite`, Pyspark`, `Hadoop`  
 - Web Development: `HTML`, `RMarkdown`, `Shiny`, `Looker Studio`
