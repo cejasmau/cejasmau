@@ -27,7 +27,7 @@
 
 - 💌 mcejasmarcovecchio@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/mcejasmarcovecchio)  
-- 🌐 [maurocm.linktree]([https://linktr.ee/mcejasmarcovecchio)
+- 🌐 [Linktree]([https://linktr.ee/mcejasmarcovecchio)
 
 ---
 
