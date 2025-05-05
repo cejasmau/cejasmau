@@ -23,11 +23,11 @@
 - [📈 Dashboard of Indicators Impacting the Popular Economy](https://rpubs.com/mcejasmarcovecchio/monitor-ecopop-dic2024)
 - [🤖 Notes for the Analysis of the Social and Urban Integration Department (2021-2023)](https://rpubs.com/mcejasmarcovecchio/social-urban-department-analysis)
 
-## 📫 Contacto
+## 📫 Contact
 
 - 💌 mcejasmarcovecchio@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/mcejasmarcovecchio)  
-- 🌐 [Linktree]([https://linktr.ee/mcejasmarcovecchio)
+- 🌐 [Linktree](https://linktr.ee/mcejasmarcovecchio)
 
 ---
 
