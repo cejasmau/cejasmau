@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👩‍💻 Mauro Cejas Marcovecchio
 
-<!--
-**cejasmau/cejasmau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | R Developer | Python Enthusiast**
 
-Here are some ideas to get you started:
+## 💡 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Buenos Aires, Argentina 🇦🇷  
+- 🎓 Economist specialized in data science and budget analysis.  
+- 📊 Experience in the public sector and non-governmental organizations.
+
+## 🛠️ Languages and Tools
+
+- Lenguajes: `R`, `Python`, `SQL`
+- Rstudio: `lubridate`, `gt`, `sf`, `leaflet`, `plotly`, `clustering`, `k-means`, `shiny`.
+- Python: Python: `numpy`, `pandas`, `skilearn`, `matplotlib`, `seaborn`, `plotly`, `PostgreSQL`, Sqlite`, Pyspark`, `Hadoop`  
+- Web Development: `HTML`, `RMarkdown`, `Shiny`, `Looker Studio`
+- Spatial Analysis: `QGIS`  
+- Others: `Jupyter`, `VSCode`, `Quarto`  
+
+## 🚀 Key Projects
+
+- [🌍 Progress and Challenges in the Urbanization of Informal Settlements](https://library.fes.de/pdf-files/bueros/argentinien/21968.pdf)
+- [📈 Dashboard of Indicators Impacting the Popular Economy](https://rpubs.com/mcejasmarcovecchio/monitor-ecopop-dic2024)
+- [🤖 Notes for the Analysis of the Social and Urban Integration Department (2021-2023)](https://rpubs.com/mcejasmarcovecchio/social-urban-department-analysis)
+
+## 📫 Contacto
+
+- 💌 mcejasmarcovecchio@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/mcejasmarcovecchio)  
+- 🌐 [maurocm.linktree]([https://linktr.ee/mcejasmarcovecchio))
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luciaf&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
